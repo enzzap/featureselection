@@ -1,2 +1,2 @@
-please compile main.cpp and urn the executable
+please compile main.cpp and run the executable
 (I used g++ when compiling my code)
